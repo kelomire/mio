@@ -1,0 +1,63 @@
+li{list-style: none}
+li:hover{background-color: black;color: white}
+
+body{background-image: url(vina.jpg)}
+
+.r1{width: 300px;height: 40px;background-color: aquamarine; border:10px solid blue; border-style:ridge;display: flex; justify-content: center;align-items: center}
+
+.r2{width: 300px;height: 40px;background-color: aquamarine; border:10px solid blue; border-style:ridge;display: flex; justify-content: center;align-items: center}
+
+.r3{width: 100%;height: 40px;background-color: aquamarine; border:10px solid blue; border-style:ridge;display: flex; justify-content: center;align-items: center}
+
+.r4{width: 100%;height: 40px;background-color: aquamarine; border:10px solid blue; border-style:ridge;display: flex; justify-content: center;align-items: center}
+
+.r{width: 100%; height: 200x;background-color:aqua;display: flex}
+
+.t{width: 100%; height: 300px;background-color:cadetblue;
+    position: relative; display: flex; justify-content:center; align-items: center;opacity: 0.9}
+
+.ca{
+    width: 180px;
+    height: 400px
+  color: #FFF;
+  text-align: center;
+  line-height: 180px;
+  margin: 60px;
+  float: left;
+  font-size: 18px;
+  font-family: Arial
+}
+
+.t1{ 
+  -webkit-transition: 1s linear;
+  transition: 1s linear;
+}
+
+.t1:hover{  -webkit-transform: scale(.5);
+    transform: scale(.5);}
+
+
+.t2 { 
+ 
+  -webkit-transition: 1s linear;
+  transition: 1s linear;
+}
+
+.t2:hover{  -webkit-transform: scale(.5);
+    transform: scale(.5);}
+
+
+.t3 { 
+
+  -webkit-transition: 1s linear;
+  transition: 1s linear;
+}
+
+.t3:hover{  -webkit-transform: scale(.5);
+    transform: scale(.5);}
+
+.j{width: 100%; height: 500px;background-color: aqua}
+
+.mi{width: 100%; height: 100px;background-color: cadetblue; display: flex;justify-content:space-around;align-items: center}
+
+

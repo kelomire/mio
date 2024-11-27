@@ -1,0 +1,10 @@
+li{list-style: none}
+li:hover{background-color: black;color: white}
+
+.mi{width: 100%; height: 100px;background-color: cadetblue; display: flex;justify-content: space-around;align-items: center}
+
+body{background-image: url(vina.jpg) }
+
+.tu{width: 100%;height: 100%;display: flex; justify-content: center;align-items: center}
+
+.yu{width:300px;height: 300px;background-color: cadetblue; display: flex;justify-content: center;align-items: center;opacity: 0.9;border:10px solid blue; border-style: ridge  }
